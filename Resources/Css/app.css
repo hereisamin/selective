@@ -1,0 +1,10 @@
+@import url("../Packages/leaflet/leaflet.css");
+@import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
+
+#mapid {
+    height: 500px;
+}
+.myOrange{
+    background-color: #ff9c34;
+
+}
